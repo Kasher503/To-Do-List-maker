@@ -6,9 +6,13 @@ You can Edit , Delete or clear the complete list
 
 Every Task or item have its on unique id
 
+
+
 The node verion which I am using in it v20.5.0
 
 The vite verion which I am using in it ^5.3.1
+
+
 
 The dependencies I used in it are 
 
@@ -19,6 +23,8 @@ The dependencies I used in it are
 "react-toastify": "^10.0.5"
 
 "uuid": "^10.0.0"
+
+
 
 Here its live demo : https://to-do-list56.vercel.app/
 
