@@ -1,9 +1,18 @@
-# React + Vite
+This is a todo list app using react + vite
+In this app you can add your task and it displays your items in a list 
+You can Edit , Delete or clear the complete list
+Every Task or item have its on unique id
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The node verion which I am using in it v20.5.0
+The vite verion which I am using in it ^5.3.1
 
-Currently, two official plugins are available:
+The dependencies I used in it are 
+"tailwindcss": "^3.4.4"
+"react-icons": "^5.2.1"
+"react-toastify": "^10.0.5"
+"uuid": "^10.0.0"
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# to-do-list" 
+Here its live demo : to-do-list56.vercel.app
+
+
+
