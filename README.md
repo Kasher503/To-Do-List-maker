@@ -12,7 +12,7 @@ The dependencies I used in it are
 "react-toastify": "^10.0.5"
 "uuid": "^10.0.0"
 
-Here its live demo : to-do-list56.vercel.app
+Here its live demo : https://to-do-list56.vercel.app/
 
 
 
