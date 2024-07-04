@@ -26,7 +26,7 @@ The dependencies I used in it are
 
 
 
-Here its live demo : https://to-do-list56.vercel.app/
+Here its live demo :https://itask-list-maker.vercel.app/
 
 
 
