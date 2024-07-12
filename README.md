@@ -1,4 +1,4 @@
-This is a todo list app using react + vite
+This is a todo list app which is completly responsive using react + vite
 
 In this app you can add your task and it displays your items in a list 
 
