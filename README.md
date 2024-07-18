@@ -1,4 +1,4 @@
-This is a todo list app which is completly responsive using react + vite
+# This is a todo list app which is completly responsive using react + vite
 
 In this app you can add your task and it displays your items in a list 
 
@@ -26,7 +26,8 @@ The dependencies I used in it are
 
 
 
-Here its live demo :https://itask-list-maker.vercel.app/
+# Here its live demo :
+https://itask-list-maker.vercel.app/
 
 
 
